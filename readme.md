@@ -12,6 +12,7 @@ Google Cloud Platform:
 * Cloud NAT
 * Serverless VPC Access Connector (Access to Private, INTERNAL ONLY MongoDB)
 * Cloud Build (Serverless CI / CD)
+* Cloud Secret Manager (For sensitive data)
 
 Google Cloud Libraries:
 * Cloud Logging for Python
