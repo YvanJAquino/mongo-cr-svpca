@@ -48,7 +48,7 @@ steps:
 
 substitutions:
   _SERVICE: mongo-cr-svpca
-  _DB_HOST: localhost
+  _DB_HOST: 10.0.0.4
   _DB_PORT: 27017
   _DB_NAME: cloud
   _DB_COLL: jokes
