@@ -9,7 +9,7 @@
 # See this awesome example of how to run unit tests and test coverage using Cloud Build
 # https://threedots.tech/post/running-integration-tests-on-google-cloud-build/ 
 
-# Service URL: 
+# Service URL: https://mongo-cr-svpca-p47xccvrva-uc.a.run.app/docs
 
 steps:
   
