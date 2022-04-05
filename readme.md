@@ -8,6 +8,8 @@ Google Cloud Platform:
 * Compute Engine (Self-hosted MongoDB)
 * Cloud Run (REST API)
 * Cloud VPC
+* Private Google Access
+* Cloud NAT
 * Serverless VPC Access Connector (Access to Private, INTERNAL ONLY MongoDB)
 * Cloud Build (Serverless CI / CD)
 
