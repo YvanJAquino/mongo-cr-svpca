@@ -1,6 +1,1 @@
-
-CREATE 
-READ
-LIST
-UPDATE
-DELETE
+To do
