@@ -23,7 +23,7 @@ Python Libraries:
 * Uvicorn / Gunicorn (Process hanagement and hosting)
 * HTTPX (Asynchronous HTTP client)
 * PyMongo (MongoDB client)
-* Pipenv (Dependency management)
+* Pipenv (Package management)
 
 # Useful links:
 
